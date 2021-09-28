@@ -56,6 +56,7 @@ content:
   - title: Skills
     layout: text
     content:
+    	- Rock climbing
       - Master web development technology. PHP, Laravel, Tailwindcss, Alpine, Livewire, Vue
       - Database technology such as Mysql
       - HTML、Css 、JavaScript, Vue, WeChat mini program, Front-end technologies
