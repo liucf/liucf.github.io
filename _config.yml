@@ -48,11 +48,21 @@ darkmode: true
 # about_title: About Me
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's ChengFang Liu and I'm a senior software engineer. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's ChengFang Liu and I'm a senior software engineer, more than 10+ years websites development experiences. 
 
-  I am a <mark>TALL</mark> stack (Tailwind, Alpine, Laravel and Livewire) enthusiast. I have used Laravel to create many systems.
+  I am a <mark>TALL</mark> stack (Tailwind, Alpine, Laravel and Livewire) enthusiast. I have used PHP/Laravel to create many systems.
 
 content:
+  - title: Skills
+    layout: text
+    content:
+      - Master web development technology. PHP, Laravel, Tailwindcss, Alpine, Livewire, Vue
+      - Database technology such as Mysql
+      - HTML、Css 、JavaScript, Vue, WeChat mini program, Front-end technologies
+      - Phpunit、Functional testing, Unit testing, etc.
+      - Git,CI, version control technologies
+      - Laracasts lifetime membership
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
