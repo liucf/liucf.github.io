@@ -77,16 +77,16 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        quote: >
+          Front-end and back-end full-stack development
         description: | # this will include new lines to allow paragraphs
           Long-term project. A video/picture membership sales website developed using the Laravel framework (memberships $19.9 per month, unlimited viewing of all content on the website), produced for American companies, operated and servers are in the United States, and independently implements all front and back functions.
 
           Discuss the requirements with the person in charge of the American company. They are responsible for providing the design (PSD) files, and I am responsible for the program design. From the original pure PHP version, to the later use of the Codeigniter framework, now the Laravel framework is used. Many versions have been iterated. The website is now operating stably. Last month, the number of visits was 135K, which is able to maintain a stable income.
 
       - layout: top-middle
-        title: Online video membership system
-        # link: github.com/sproogen
+        title: Vacation travel booking website
+        link: https://www.thecaboagency.com
         # link_text: Project Website
         # additional_links:
         #   - title:  sproogen/modern-resume-theme
@@ -95,12 +95,14 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        quote: >
+          Front-end and back-end full-stack development
         description: | # this will include new lines to allow paragraphs
-          Long-term project. A video/picture membership sales website developed using the Laravel framework (memberships $19.9 per month, unlimited viewing of all content on the website), produced for American companies, operated and servers are in the United States, and independently implements all front and back functions.
+          Project Introduction：
+          Long-term project. Use PHP language to develop an online travel reservation website system for American travel companies. Including front and back ends and payment functions. The operations and servers are in the United States, and all front and back functions are implemented independently. 
 
-          Discuss the requirements with the person in charge of the American company. They are responsible for providing the design (PSD) files, and I am responsible for the program design. From the original pure PHP version, to the later use of the Codeigniter framework, now the Laravel framework is used. Many versions have been iterated. The website is now operating stably. Last month, the number of visits was 135K, which is able to maintain a stable income.
+          My responsibility：
+          Discuss the requirements with the person in charge of the American company. They are responsible for providing the requirements, and I am responsible for the program design. I have been iteratively updated many times, and have been using pure PHP language development.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
