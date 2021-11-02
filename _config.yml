@@ -53,6 +53,14 @@ about_content: | # this will include new lines to allow paragraphs
   I am a <mark>TALL</mark> stack (Tailwind, Alpine, Laravel and Livewire) enthusiast. I have used Laravel to create many websites/systems.
 
 content:
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Rock climbing
+      - Gaming
+      - Knitting
+
   - title: Skills
     layout: text
     content:
