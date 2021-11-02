@@ -168,8 +168,8 @@ content:
         title: International Christian University
         caption: Tokyo, Japan
         sub_title: 2018.09 - 2020.06
-        quote: >
-          Public economy
+        # quote: >
+        #   Public economy
 
   - title: A Little More About Me
     layout: text
