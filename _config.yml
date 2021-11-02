@@ -50,7 +50,7 @@ darkmode: true
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's ChengFang Liu and I'm a senior software engineer. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am a <mark>TALL</mark> stack (Tailwind, Alpine, Laravel and Livewire) enthusiast. I have used Laravel to create many systems.
+  I am a <mark>TALL</mark> stack (Tailwind, Alpine, Laravel and Livewire) enthusiast. I have used Laravel to create many websites/systems.
 
 content:
   - title: Projects # Title for the section
