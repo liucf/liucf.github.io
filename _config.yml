@@ -6,8 +6,8 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: ChengFang Liu
-title: Senior Software Engineer
+name: Michael Liu
+title: Senior Full Stack Web Developer
 email: lcf800@gmail.com
 website: https://liucf.github.io
 
@@ -48,7 +48,7 @@ darkmode: true
 # about_title: About Me
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's ChengFang Liu and I'm a senior software engineer. As well as administrating systems I also have experience making software and web apps. 
+  Hi, my name's Michael Liu and I'm a senior Full Stack web developer engineer. As well as administrating systems I also have experience making software and web apps. 
   I am a <mark>TALL</mark> stack (Tailwind, Alpine, Laravel and Livewire) enthusiast. I have used Laravel to create many websites/systems.
 
 content:
@@ -57,9 +57,9 @@ content:
     content: | # this will include new lines to allow paragraphs
       - Master web development technology. PHP, Laravel, Tailwindcss, Alpine, Livewire, Vue
       - Database technology such as Mysql
-      - HTML、Css 、JavaScript, Vue, WeChat mini program, Front-end technologies
+      - HTML, Css, JavaScript, Vue, WeChat mini program, Front-end technologies
       - Phpunit、Functional testing, Unit testing, etc.
-      - Git,CI, version control technologies
+      - Git, CI, version control technologies
       - Laracasts lifetime membership
 
   - title: Projects # Title for the section
@@ -73,15 +73,15 @@ content:
         #   - title:  sproogen/modern-resume-theme
         #     icon: fab fa-github
         #     url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           Front-end and back-end full-stack development
         description: | # this will include new lines to allow paragraphs
           Long-term project. A video/picture membership sales website developed using the Laravel framework (memberships $19.9 per month, unlimited viewing of all content on the website), produced for American companies, operated and servers are in the United States, and independently implements all front and back functions.
 
-          Discuss the requirements with the person in charge of the American company. They are responsible for providing the design (PSD) files, and I am responsible for the program design. From the original pure PHP version, to the later use of the Codeigniter framework, now the Laravel framework is used. Many versions have been iterated. The website is now operating stably. Last month, the number of visits was 135K, which is able to maintain a stable income.
+          Discuss the requirements with the person in charge of the American company. They are responsible for providing the design (PSD) files, and I am responsible for the program design. From the original pure PHP version, to the later use of the Codeigniter framework, now the Laravel framework is used. Many versions have been iterated. The website is now operating stably. Last month, the number of visits was 200K, which is able to maintain a stable income.
 
       - layout: top-middle
         title: Vacation travel booking website
@@ -91,9 +91,9 @@ content:
         #   - title:  sproogen/modern-resume-theme
         #     icon: fab fa-github
         #     url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           Front-end and back-end full-stack development
         description: | # this will include new lines to allow paragraphs
@@ -111,9 +111,9 @@ content:
         #   - title:  sproogen/modern-resume-theme
         #     icon: fab fa-github
         #     url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           Front-end and back-end full-stack development
         description: | # this will include new lines to allow paragraphs
@@ -127,9 +127,9 @@ content:
         #   - title:  sproogen/modern-resume-theme
         #     icon: fab fa-github
         #     url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           Front-end and back-end full-stack development
         description: | # this will include new lines to allow paragraphs
@@ -152,20 +152,20 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: top
+        title: International Christian University
+        caption: 2018.09 - 2020.06 / Tokyo, Japan
+        sub_title: Master of Public Economy
+
       - layout: left
         title: Hunan University
         caption: 2003.09 - 2007.06 / Changsha, China
-        sub_title: Software engineering
-          
+        sub_title: Bachelor of Software Engineering
+
         # description: | # this will include new lines to allow paragraphs
         #   During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
         #   I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-      - layout: top
-        title: International Christian University
-        caption: 2018.09 - 2020.06 / Tokyo, Japan
-        sub_title: Public economy
 
 # Footer
 footer_show_references: true
@@ -179,4 +179,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
