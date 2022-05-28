@@ -45,13 +45,13 @@ darkmode: true
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: ABOUT ME
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Michael Liu and I'm a senior Full Stack web developer engineer. 15 years of software development experience and 10+ years of full-stack experience, with multinational cooperation project background and excellent coding and system design skills; Good at page layout and refactoring and strong ability to identify and design common frameworks and modules.
 
 content:
-  - title: Skills
+  - title: SKILLS
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Programming languages: PHP, C#, Javascript, JAVA, Python, R, Swift, Latex, Markdown
