@@ -48,19 +48,39 @@ darkmode: true
 # about_title: About Me
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Michael Liu and I'm a senior Full Stack web developer engineer. As well as administrating systems I also have experience making software and web apps. 
-  I am a <mark>TALL</mark> stack (Tailwind, Alpine, Laravel and Livewire) enthusiast. I have used Laravel to create many websites/systems.
+  Hi, my name's Michael Liu and I'm a senior Full Stack web developer engineer. 15 years of software development experience and 10+ years of full-stack experience, with multinational cooperation project background and excellent coding and system design skills; Good at page layout and refactoring and strong ability to identify and design common frameworks and modules.
 
 content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Master web development technology. PHP, Laravel, Tailwindcss, Alpine, Livewire, Vue
-      - Database technology such as Mysql
-      - HTML, Css, JavaScript, Vue, WeChat mini program, Front-end technologies
-      - Phpunit、Functional testing, Unit testing, etc.
-      - Git, CI, version control technologies
-      - Laracasts lifetime membership
+      - Programming languages: PHP, C#, Javascript, JAVA, Python, R, Swift, Latex, Markdown
+      - Framework: Laravel, Vue, React, Flutter, Next.js, React Native, TailwindCSS, AlplineJS, Livewire
+      - Testing: Unit Test, Integrated Test, Browser Test
+      - Front End: HTML, CSS, Gulp, Sass, Less, Webpack, PostCSS
+      - Databases: MySQL, PgSQL, PDO, SQLite, SQL Server
+      - Version Control/ CodeBase: Svn, Git, CI, PHPDoc, Packagist, Npm, Rubygems
+      - Data Analysis: Python, R, IMB SPSS
+
+  - title: PROFESSIONAL EXPERIENCE # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Internet Media Publications
+        # link: github.com/sproogen
+        link_text: 05/2012-Present  / Remote
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Full Stack Developer
+        description: | # this will include new lines to allow paragraphs
+          - Worked closely with USA's development team to design, build and operate highly secure feasible technical solutions, and upgraded and improved the technology stack according to the project requrements.
+          - Managed the complete software development process from conception to deployment.
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -77,7 +97,7 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Front-end and back-end full-stack development
+          Full Stack Developer
         description: | # this will include new lines to allow paragraphs
           Long-term project. A video/picture membership sales website developed using the Laravel framework (memberships $19.9 per month, unlimited viewing of all content on the website), produced for American companies, operated and servers are in the United States, and independently implements all front and back functions.
 
@@ -95,7 +115,7 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Front-end and back-end full-stack development
+          Full Stack Developer
         description: | # this will include new lines to allow paragraphs
           Project Introduction：
           Long-term project. Use PHP language to develop an online travel reservation website system for American travel companies. Including front and back ends and payment functions. The operations and servers are in the United States, and all front and back functions are implemented independently. 
@@ -115,7 +135,7 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Front-end and back-end full-stack development
+          Full Stack Developer
         description: | # this will include new lines to allow paragraphs
           The online data storage system (member fee system) developed using the Laravel framework is produced for American companies, and the operations and servers are all located in the United States. I did all the front and back functions independently. After the system went online, the operation effect was not good, but the front-end and back-end functions have been completed, including the integration of Stripe in the payment system.
 
@@ -131,7 +151,7 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Front-end and back-end full-stack development
+          Full Stack Developer
         description: | # this will include new lines to allow paragraphs
           WeChat Mini Program developed for a Japanese company. The main function is to put the lottery products on the shelves, including rich functions such as membership level, referral mechanism, lottery rules, data analysis and so on. Customers provide requirements, and I am responsible for the design and development of the front and back ends. Zeplin was used for the design of the applet, and the native development language of WeChat was used for development. The back-end management system and API use Laravel framework and Nova. Now the system has just been completed and launched, the back-end address is https://ibc168.net/, and you can find it by searching in the mini program WeChat.
 
