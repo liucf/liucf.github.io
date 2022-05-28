@@ -77,16 +77,37 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Full Stack Developer  /  05/2012 - Present  /  Remote
+          05/2012 - Present  /  Full Stack Developer  /  Remote
         description: | # this will include new lines to allow paragraphs
           - Worked closely with USA's development team to design, build and operate highly secure feasible technical solutions, and upgraded and improved the technology stack according to the project requrements.
           - Managed the complete software development process from conception to deployment.
+          - Upgraded the software following deployment, and built efficient interfaces and page interactions.
+          - Analyzed the project requirements, and worked with team members in the USA to customize solutions.
+          - Prepared technical documentation, including technical solutions, user manuals, and test reports.
+      - layout: top-middle
+        title: Shanghai DingRen Technology Co., LTD
+        # link: github.com/sproogen
+        # link_text: 05/2012 - Present  / Remote
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+        # - title: 05/2012 - Present / Remote
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          07/2007-05/2012  /  Software Engineer  /  Shanghai, China
+        description: | # this will include new lines to allow paragraphs
+          - Participated in and managed the development and maintenance of the Encrypted Media Sales Platform.
+          - Complete the high-quality coding, and analyzed the development technology research involved in the project.
+          - Discussed product requirements in-depth, defined product features, and reproduced existing Windows media platform to create new functions using Javascript Language.
+          - Conducted the Multi-Server Distributed Deployment Project, communicated with the parent company (Tencent), executed project research, formulated the platform deployment plan, and completed the smooth transition of the system and improved user experience.
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Online video membership system
+        title: Online Video Membership System
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
@@ -97,11 +118,14 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Full Stack Developer
+          Full Stack Developer  /  05/2012-Present
         description: | # this will include new lines to allow paragraphs
-          Long-term project. A video/picture membership sales website developed using the Laravel framework (memberships $19.9 per month, unlimited viewing of all content on the website), produced for American companies, operated and servers are in the United States, and independently implements all front and back functions.
-
-          Discuss the requirements with the person in charge of the American company. They are responsible for providing the design (PSD) files, and I am responsible for the program design. From the original pure PHP version, to the later use of the Codeigniter framework, now the Laravel framework is used. Many versions have been iterated. The website is now operating stably. Last month, the number of visits was 200K, which is able to maintain a stable income.
+          Project Description: A video/image membership sales site developed using the Laravel framework, with a membership of $29.90 per month and unlimited access to all content within site.
+          - Discussed project requirements with project leaders from USA companies and controlled the project schedule.
+          - Designed the program according to the project requirements, including front-end& back-end full-stack development.
+          - Analyzed the initial pure PHP version and the upgrade/update requirements of the Codeigniter framework.
+          - Completed the application of the latest technologies such as Laravel, Vue, Tailwindcss, etc. and integrated various online payment systems.
+          - Summarized the core data indicators of the website, analyzed the causes of data fluctuations and specified SEO optimization solutions.
 
       - layout: top-middle
         title: Vacation travel booking website
@@ -115,13 +139,12 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Full Stack Developer
+          Full Stack Developer  /  05/2015- Present
         description: | # this will include new lines to allow paragraphs
-          Project Introduction：
-          Long-term project. Use PHP language to develop an online travel reservation website system for American travel companies. Including front and back ends and payment functions. The operations and servers are in the United States, and all front and back functions are implemented independently. 
+          Project Description
+          The website was developed using PHP, customers can book travel packages online, and the system automatically generates reminders to company staff and related service providers. The website also supports an online booking payment system. 
 
-          My responsibility：
-          Discuss the requirements with the person in charge of the American company. They are responsible for providing the requirements, and I am responsible for the program design. I have been iteratively updated many times, and have been using pure PHP language development.
+          - Analyzed and discussed project requirements, solutions and planning with project leaders in USA companies.
 
       - layout: top-middle
         title: Online data storage service
