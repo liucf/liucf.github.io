@@ -68,12 +68,12 @@ content:
       - layout: top-middle
         title: Internet Media Publications
         # link: github.com/sproogen
-        link_text: 05/2012-Present  / Remote
+        link_text: 05/2012 - Present  / Remote
         # additional_links:
         #   - title:  sproogen/modern-resume-theme
         #     icon: fab fa-github
         #     url: github.com/sproogen/modern-resume-theme
-        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        - title: 05/2012 - Present / Remote
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
