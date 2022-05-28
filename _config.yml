@@ -103,7 +103,7 @@ content:
           - Discussed product requirements in-depth, defined product features, and reproduced existing Windows media platform to create new functions using Javascript Language.
           - Conducted the Multi-Server Distributed Deployment Project, communicated with the parent company (Tencent), executed project research, formulated the platform deployment plan, and completed the smooth transition of the system and improved user experience.
 
-  - title: Projects # Title for the section
+  - title: PROJECT EXPERIENCE # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -145,6 +145,8 @@ content:
           The website was developed using PHP, customers can book travel packages online, and the system automatically generates reminders to company staff and related service providers. The website also supports an online booking payment system. 
 
           - Analyzed and discussed project requirements, solutions and planning with project leaders in USA companies.
+          - Managed the full-stack development of the front-end and back-end of the project, tested the project operation and reported the project development progress at different stages.
+          - Designed the page and realized all functions through PHP, JavaScript, and CSS, including the function to automatically generate PDF files and send reminders to administrators and travel service providers after successful booking and payment.
 
       - layout: top-middle
         title: Online data storage service
@@ -158,9 +160,11 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Full Stack Developer
+          Full Stack Developer  /  01/2017-10/2018
         description: | # this will include new lines to allow paragraphs
-          The online data storage system (member fee system) developed using the Laravel framework is produced for American companies, and the operations and servers are all located in the United States. I did all the front and back functions independently. After the system went online, the operation effect was not good, but the front-end and back-end functions have been completed, including the integration of Stripe in the payment system.
+          Project Description: The Online Data Storage System (member fee system) developed using the Laravel framework is produced for American companies. The operations and servers are all located in the USA. Customers can choose a payment plan online and enjoy the corresponding data storage services. Users can upload and save their private data, and the System integrates online payment methods.
+          - Led the full-stack development of the front-end and back-end of the project, completed the front-end page design, and implemented various functions, including package upload, drag-and-drop upload, electronic invoice generation, etc., using Laravel, JavaScript, Jquery, CSS and other technologies
+          - Communicated with the US project team on project requirements and project progress, coordinated and controlled the project direction.
 
       - layout: top-middle
         title: WeChat Mini Program (Lucky Cat Draw)
@@ -174,9 +178,13 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Full Stack Developer
+          Full Stack Developer  /  09/2020-present
         description: | # this will include new lines to allow paragraphs
-          WeChat Mini Program developed for a Japanese company. The main function is to put the lottery products on the shelves, including rich functions such as membership level, referral mechanism, lottery rules, data analysis and so on. Customers provide requirements, and I am responsible for the design and development of the front and back ends. Zeplin was used for the design of the applet, and the native development language of WeChat was used for development. The back-end management system and API use Laravel framework and Nova. Now the system has just been completed and launched, the back-end address is https://ibc168.net/, and you can find it by searching in the mini program WeChat.
+          Project Description: Developed a WeChat Mini Program - "Lucky Cat Draw" for a Japanese company. The Mini Program is calledAPI to read the background data and present it to the user, who can use the Mini Program to draw a lottery.
+          - Communicated with the Japanese project team and planned the function and layout of the Mini Program.
+          - Designed and developed the front-end pages of the Mini Program according to the preference and positioning of the customers using Tencent's WeChat native development language and tools.
+          - Laravel and Nova frameworks were used for the back-end management side, supporting multi-role administrators with different permissions for system management.
+          - The Mini Program completes different functions by calling APIs, including membership level, recommendation mechanism, lottery rules, data analysis, etc.
 
   # - title: Experience # Title for the section
   #   layout: list # Type of content section (list/text)
@@ -192,7 +200,7 @@ content:
   #       description: | # this will include new lines to allow paragraphs
   #           Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
-  - title: Education # Title for the section
+  - title: EDUCATION # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top
