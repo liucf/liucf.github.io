@@ -149,24 +149,6 @@ content:
           - Designed the page and realized all functions through PHP, JavaScript, and CSS, including the function to automatically generate PDF files and send reminders to administrators and travel service providers after successful booking and payment.
 
       - layout: top-middle
-        title: Online data storage service
-        link: https://bestwns.com
-        # link_text: Project Website
-        # additional_links:
-        #   - title:  sproogen/modern-resume-theme
-        #     icon: fab fa-github
-        #     url: github.com/sproogen/modern-resume-theme
-        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #   icon: fab fa-github
-        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Full Stack Developer  /  01/2017-10/2018
-        description: | # this will include new lines to allow paragraphs
-          Project Description: The Online Data Storage System (member fee system) developed using the Laravel framework is produced for American companies. The operations and servers are all located in the USA. Customers can choose a payment plan online and enjoy the corresponding data storage services. Users can upload and save their private data, and the System integrates online payment methods.
-          - Led the full-stack development of the front-end and back-end of the project, completed the front-end page design, and implemented various functions, including package upload, drag-and-drop upload, electronic invoice generation, etc., using Laravel, JavaScript, Jquery, CSS and other technologies
-          - Communicated with the US project team on project requirements and project progress, coordinated and controlled the project direction.
-
-      - layout: top-middle
         title: WeChat Mini Program (Lucky Cat Draw)
         link: https://ibc168.net
         # link_text: Project Website
@@ -204,6 +186,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top
+        title: University of Waikato
+        caption: 2023.01 / Waikato, New Zeanland
+        sub_title: Master of Information Technology
+      
+      - layout: left
         title: International Christian University
         caption: 2018.09 - 2020.06 / Tokyo, Japan
         sub_title: Master of Public Economy
