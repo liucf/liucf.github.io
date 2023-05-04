@@ -115,7 +115,7 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Full Stack Developer  /  05/2012-Present
+          Full Stack Developer
         description: | # this will include new lines to allow paragraphs
           Project Description: A video/image membership sales site developed using the Laravel framework, with a membership of $29.90 per month and unlimited access to all content within site.
           - Discussed project requirements with project leaders from USA companies and controlled the project schedule.
@@ -136,7 +136,7 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Full Stack Developer  /  05/2015- Present
+          Full Stack Developer 
         description: | # this will include new lines to allow paragraphs
           Project Description
           The website was developed using PHP, customers can book travel packages online, and the system automatically generates reminders to company staff and related service providers. The website also supports an online booking payment system. 
@@ -157,7 +157,7 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Full Stack Developer  /  09/2020-present
+          Full Stack Developer 
         description: | # this will include new lines to allow paragraphs
           Project Description: Developed a WeChat Mini Program - "Lucky Cat Draw" for a Japanese company. The Mini Program is calledAPI to read the background data and present it to the user, who can use the Mini Program to draw a lottery.
           - Communicated with the Japanese project team and planned the function and layout of the Mini Program.
@@ -203,7 +203,7 @@ content:
         #   I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
 # Footer
-footer_show_references: true
+# footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
