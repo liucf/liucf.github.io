@@ -62,7 +62,7 @@ content:
       - Version Control/ CodeBase: Svn, Git, CI, PHPDoc, Packagist, Npm, Rubygems
       - Data Analysis: Python, R, IMB SPSS
 
-  - title: PROFESSIONAL EXPERIENCE # Title for the section
+  - title: WORK EXPERIENCE # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
