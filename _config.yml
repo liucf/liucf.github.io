@@ -66,18 +66,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Internet Media Publications
-        # link: github.com/sproogen
-        # link_text: 05/2012 - Present  / Remote
-        # additional_links:
-        #   - title:  sproogen/modern-resume-theme
-        #     icon: fab fa-github
-        #     url: github.com/sproogen/modern-resume-theme
-        # - title: 05/2012 - Present / Remote
-        #   icon: fab fa-github
-        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        title: University of Waikato
         quote: >
-          05/2012 - Present  /  Full Stack Developer  /  Remote
+          03/2023 - Present  /  Research Programmer of Artificial Intelligence Institute (Casual Contract)  /  Hamilton, New Zealand
+        description: | # this will include new lines to allow paragraphs
+          - Assist with the programming for a machine learning related academic research project as a programmer.
+      - layout: top-middle
+        title: Internet Media Publications
+        quote: >
+          06/2008 - 02/2023  /  Full Stack Developer  /  Remote
         description: | # this will include new lines to allow paragraphs
           - Worked closely with USA's development team to design, build and operate highly secure feasible technical solutions, and upgraded and improved the technology stack according to the project requrements.
           - Managed the complete software development process from conception to deployment.
@@ -96,7 +93,7 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          07/2007-05/2012  /  Software Engineer  /  Shanghai, China
+          06/2007-06/2008  /  Software Engineer  /  Shanghai, China
         description: | # this will include new lines to allow paragraphs
           - Participated in and managed the development and maintenance of the Encrypted Media Sales Platform.
           - Complete the high-quality coding, and analyzed the development technology research involved in the project.
