@@ -48,7 +48,7 @@ darkmode: true
 about_title: ABOUT ME
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Chengfang Liu and I'm a senior Full Stack web developer engineer. 15 years of software development experience and 10+ years of full-stack experience, with multinational cooperation project background and excellent coding and system design skills; good at page layout and refactoring and strong ability to identify and design common frameworks and modules, especially proficient in Laravel ecosystem.
+  Hi, my name's Chengfang Liu and I'm a senior Full Stack web developer engineer. 15 years of software development experience and 10+ years of full-stack experience, with multinational cooperation project background and excellent coding and system design skills, especially proficient in Laravel ecosystem.
 
 content:
   - title: SKILLS
@@ -71,6 +71,8 @@ content:
           03/2023 - Present  /  Research Programmer of Artificial Intelligence Institute (Casual Contract)  /  Hamilton, New Zealand
         description: | # this will include new lines to allow paragraphs
           - Assist with the programming for a machine learning related academic research project as a programmer.
+          - Python and Java used to implement machine learning algorithms and models.
+          - Benchmark and visualization to evaluate and optimize the performance.
       - layout: top-middle
         title: Internet Media Publications
         quote: >
